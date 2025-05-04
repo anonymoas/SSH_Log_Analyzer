@@ -1,0 +1,11 @@
+Apr 29 13:15:32 server sshd[1999]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Apr 29 13:15:35 server sshd[1999]: Failed password for root from 192.168.1.20 port 22 ssh2
+Apr 29 13:16:01 server sshd[1999]: Failed password for admin from 192.168.1.10 port 22 ssh2
+Apr 29 13:16:29 server sshd[1999]: Failed password for root from 192.168.1.20 port 22 ssh2
+Apr 29 13:17:00 server sshd[1999]: Failed password for admin from 192.168.1.10 port 22 ssh2
+Apr 29 13:17:32 server sshd[1999]: Failed password for admin from 192.168.1.10 port 22 ssh2
+Apr 29 13:18:12 server sshd[1999]: Accepted password for admin from 192.168.1.10 port 22 ssh2
+Apr 29 13:18:33 server sshd[1999]: Failed password for root from 192.168.1.20 port 22 ssh2
+Apr 29 13:18:59 server sshd[1999]: Failed password for user1 from 192.168.1.30 port 22 ssh2
+Apr 29 13:19:22 server sshd[1999]: Failed password for root from 192.168.1.20 port 22 ssh2
+Apr 29 13:19:55 server sshd[1999]: Accepted password for user1 from 192.168.1.30 port 22 ssh2
