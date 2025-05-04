@@ -27,5 +27,5 @@ This Python tool analyzes SSH log files to detect suspicious login activity such
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Abdul-Nazar/ssh-log-analyzer.git
+   git clone https://github.com/anonymoas/SSH_Log_Analyzer.git
    cd ssh-log-analyzer
